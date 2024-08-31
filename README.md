@@ -7,9 +7,6 @@ This project contains a series of SQL queries designed to analyze restaurant ord
 1. [Introduction](#introduction)
 2. [Database Schema](#database-schema)
 3. [Queries](#queries)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
@@ -34,7 +31,7 @@ The project assumes the existence of two primary tables:
 
 ## Queries
 
-The SQL file (`restaurant_order_analysis.sql`) contains the following queries:
+The SQL file (`restaurant_order_analysis_sql.sql`) contains the following queries:
 
 1. **Menu Analysis**
    - View all menu items.
@@ -62,10 +59,3 @@ The SQL file (`restaurant_order_analysis.sql`) contains the following queries:
 4. **Sales Trends**
    - Analyze sales trends by hour of the day.
 
-## Usage
-
-To use the SQL queries in this project:
-
-1. Clone the repository to your local machine:
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/Restaurant-Order-Analysis.git
