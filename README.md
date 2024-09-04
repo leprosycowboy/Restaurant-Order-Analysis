@@ -31,7 +31,7 @@ The project assumes the existence of two primary tables:
 
 ## Queries
 
-The SQL file (`restaurant_order_analysis_sql.sql`) contains the following queries:
+[The SQL file](https://github.com/trareinaung/Restaurant-Order-Analysis/blob/main/restaurant_order_analysis_sql.sql) contains the following queries:
 
 1. **Menu Analysis**
    - View all menu items.
@@ -59,3 +59,6 @@ The SQL file (`restaurant_order_analysis_sql.sql`) contains the following querie
 4. **Sales Trends**
    - Analyze sales trends by hour of the day.
 
+## Author
+
+[Thu Rein Aung](https://github.com/trareinaung)
